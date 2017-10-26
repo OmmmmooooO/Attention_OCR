@@ -16,6 +16,6 @@ Move the binary files to train/test/validation folders and modify the `size` (nu
 ### Step 4.
 Run `train.py` or `evil.py`.
 
-For further information, check this out:
+For further information, check these out:
 1. [https://github.com/OmmmmooooO/models/tree/master/attention_ocr]
 2. [https://stackoverflow.com/questions/44430310/how-to-create-dataset-in-the-same-format-as-the-fsns-dataset?rq=1]
