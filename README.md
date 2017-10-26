@@ -14,7 +14,8 @@ Then use `tfrecord_gen.py` to transfer the images made by step 1 to fsns dataset
 Move the binary files to train/test/validation folders and modify the `size` (number of images) in `DEFAULT_CONFIG` in `fsns.py`.
 
 ### Step 4.
-Move the binary files to train/test/validation folders and run `train.py` or `evil.py`.
+Run `train.py` or `evil.py`.
 
 For further information, check this out:
-[https://github.com/OmmmmooooO/models/tree/master/attention_ocr]
+1. [https://github.com/OmmmmooooO/models/tree/master/attention_ocr]
+2. [https://stackoverflow.com/questions/44430310/how-to-create-dataset-in-the-same-format-as-the-fsns-dataset?rq=1]
