@@ -11,8 +11,10 @@ Attenion-OCR README.
 Then use `tfrecord_gen.py` to transfer the images made by step 1 to fsns dataset.
 
 ### Step 3.
-Move the binary files to train/test/validation folders and run `train.py` or `evil.py`.
+Move the binary files to train/test/validation folders and modify the `size` (number of images) in `DEFAULT_CONFIG` in `fsns.py`.
 
+### Step 4.
+Move the binary files to train/test/validation folders and run `train.py` or `evil.py`.
 
 For further information, check this out:
 [https://github.com/OmmmmooooO/models/tree/master/attention_ocr]
